@@ -20,15 +20,15 @@ The course begins with an overview of cloud computing and OpenStack. After the o
 ## Topics
 ```
 Section 1: Introduction 0 / 2|6min
-[ ] 1. Why should you learn Openstack? 2min
-[ ] 2. About the course 4min
+[x] 1. Why should you learn Openstack? 2min
+[x] 2. About the course 4min
 
 Section 2: Cloud Computing Overview 0 / 4|20min
-[ ] 3. Introduction to Cloud Computing 8min
-[ ] 4. Cloud Enabling Technologies & Comparison with Traditional IT 5min
-[ ] 5. Cloud Computing-Delivery and Deployment Types 7min
+[x] 3. Introduction to Cloud Computing 8min
+[x] 4. Cloud Enabling Technologies & Comparison with Traditional IT 5min
+[x] 5. Cloud Computing-Delivery and Deployment Types 7min
 
-[ ] Quiz 1: Cloud Computing Quiz
+[x] Quiz 1: Cloud Computing Quiz
 
 Section 3: Introduction to Openstack 0 / 3|14min
 [ ] 6. Introduction 5min
