@@ -31,9 +31,9 @@ Section 2: Cloud Computing Overview 0 / 4|20min
 [x] Quiz 1: Cloud Computing Quiz
 
 Section 3: Introduction to Openstack 0 / 3|14min
-[ ] 6. Introduction 5min
-[ ] 7. Overview of Component Services 5min
-[ ] 8. Architecture 5min
+[x] 6. Introduction 5min
+[x] 7. Overview of Component Services 5min
+[x] 8. Architecture 5min
 
 Section 4: Openstack Installation 0 / 5|27min
 [ ] 9. About Packstack & Hw. Requirements 3min
